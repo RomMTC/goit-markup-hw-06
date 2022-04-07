@@ -560,7 +560,6 @@ margin-bottom: 20px;
   line-height: 1.88;
   border: none;
   cursor: pointer;
-
   border-radius: 4px;
   background-color: var(--accent-color);
   color: #FFFFFF;
@@ -633,7 +632,10 @@ margin-bottom: 20px;
   visibility: hidden;
   pointer-events: none;
   }
-
+/* Modal FORM */
+.modal-form {
+  padding: 40px;
+}
 /* Portfolio.html */
 /* main portfolio */
 .portfolio {
