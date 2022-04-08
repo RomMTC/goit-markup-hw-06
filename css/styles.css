@@ -770,26 +770,6 @@ color: rgba(117, 117, 117, 0.5);
   background-color: #188CE8;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
-/* .modal-form-agreement-check>#icon-checked {
-  opacity: 0;
-}
-.modal-form-agreement-check>#icon-outline {
-  opacity: 1;
-}
-.modal-form-agreement-input:checked+.modal-form-agreement-check-item>#icon-checked {
-  opacity: 1;
-}
-
-.modal-form-agreement-input:checked+.modal-form-agreement-check-item>#icon-outline {
-  opacity: 0;
-}
-.modal-form-btn-on {
-  opacity: 1;
-}
-.modal-form-btn-on:disabled {
-  opacity: 0.5;
-  pointer-events: none;
-} */
 /* Portfolio.html */
 /* main portfolio */
 .portfolio {
