@@ -736,13 +736,13 @@ color: rgba(117, 117, 117, 0.5);
   width: 16px;
   height: 15px;
   border-color: #2f303a;
-    border: 1px solid #44454e;
-    border-radius: 2px;
-    background-size: contain;
-    background-origin: border-box;
-    text-align: center;
-    margin-right: 7px;
-    transition: border-color var(--anim), background-color var(--anim);
+  border: 1px solid #44454e;
+  border-radius: 2px;
+  background-size: contain;
+  background-origin: border-box;
+  text-align: center;
+  margin-right: 7px;
+  transition: border-color var(--anim), background-color var(--anim);
   }
 .modal-form-agreement-input:checked + .modal-form-agreement-check {
   background-color: #188ce8;
@@ -771,7 +771,7 @@ color: rgba(117, 117, 117, 0.5);
 .modal-form-btn:hover,
 .modal-form-btn:focus {
   background-color: #188CE8;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 /* Portfolio.html */
 /* main portfolio */
