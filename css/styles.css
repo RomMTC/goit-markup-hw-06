@@ -681,6 +681,7 @@ color: #757575;
   outline: none
   transition: border-color var(--anim), fill var(--anim);
 }
+.modal-form-input:hover,
 .modal-form-input:focus,
 .modal-form-input:not(:placeholder-shown) {
   border-color: var(--accent-color);
@@ -715,6 +716,7 @@ line-height: 1.16;
 letter-spacing: 0.01em;
 color: rgba(117, 117, 117, 0.5);
 }
+.modal-form-message:hover,
 .modal-form-message:focus,
 .modal-form-message:not(:placeholder-shown) {
   border-color: var(--accent-color);
