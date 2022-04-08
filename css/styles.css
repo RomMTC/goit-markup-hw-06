@@ -687,6 +687,7 @@ color: #757575;
   border-color: var(--accent-color);
   fill: var(--accent-color);
 }
+.modal-form-input:hover + .modal-form-icon,
 .modal-form-input:focus + .modal-form-icon,
 .modal-form-input:not(:placeholder-shown) + .modal-form-icon {
   border-color: var(--accent-color);
