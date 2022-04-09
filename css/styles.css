@@ -536,15 +536,8 @@ margin-bottom: 20px;
   outline: transparent;
   background-color: transparent;
   width: 358px;
-  padding: 16px 15px 15px 70px;
+  padding: 16px 15px 15px 16px;
   margin-right: 12px;
-}
-.footer-signup-email {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(50% 50%);
-  margin-left: 16px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.25;
@@ -574,7 +567,7 @@ margin-bottom: 20px;
 }
 .footer-signup-input:focus,
 .footer-signup-input:not(:placeholder-shown) {
-  background-color: var(--accent-color);
+  /* background-color: var(--accent-color); */
   color: #fff;
 }
   .footer-signup-input:focus + .footer-signup-email,
