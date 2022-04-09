@@ -664,7 +664,7 @@ color: #757575;
   align-content: center;
 }
 .modal-form-input {
-  /* display: inline-block; */
+  display: inline-block;
   width: 100%;
   padding: 11px 42px;
   border: 1px solid rgba(33, 33, 33, 0.2);
@@ -674,6 +674,9 @@ color: #757575;
   outline: none
   transition: border-color var(--anim), fill var(--anim);
 }
+/* .modal-form-icon:hover {
+  fill: var(--accent-color);
+} */
 .modal-form-input:hover,
 .modal-form-input:focus,
 .modal-form-input:not(:placeholder-shown) {
