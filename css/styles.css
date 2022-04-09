@@ -740,7 +740,7 @@ color: rgba(117, 117, 117, 0.5);
   margin-right: 7px;
   transition: background-color var(--anim);
   }
-.modal-form-agreement-input:focus + .modal-form-agreement-check {
+.modal-form-agreement-input:active + .modal-form-agreement-check {
   border-color: #188ce8;
 }
 .modal-form-agreement-input:checked + .modal-form-agreement-check {
